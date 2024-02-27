@@ -1,0 +1,1 @@
+ALTER TABLE "salary" ADD COLUMN "department" varchar(70) NOT NULL;
